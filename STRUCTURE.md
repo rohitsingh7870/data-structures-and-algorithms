@@ -13,6 +13,7 @@
      - Sorting
      - Mathematical Algorithms
      - Randomized Algorithms
+     - Recursive Algorithms
 
 * [Linear Data Structures]()
 

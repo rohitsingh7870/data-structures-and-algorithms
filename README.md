@@ -20,6 +20,7 @@ Use these following repos to study or review your knowledge and don't forget to 
     - Sorting
     - Mathematical Algorithms
     - Randomized Algorithms
+    - Recursive Algorithms
 
 - linear-data-structures
 
