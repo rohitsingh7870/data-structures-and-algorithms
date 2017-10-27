@@ -2,7 +2,7 @@
 
 > Various types of algorithms.
 
-**Contains Various types of algorithms such as divide & conquer, Greedy, searching, sorting, randomization, recursivand many more can be found here.**
+**Contains Various types of algorithms such as divide & conquer, Greedy, searching, sorting, randomization, recursive and many more can be found here.**
 
 *Codes in various languages such as `C` , `C++` , `Python` , `JAVA` , `GO` are accepted here*
 
