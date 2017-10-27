@@ -26,12 +26,12 @@ Use these following repos to study or review your knowledge and don't forget to 
 - non-linear-data-structures
 
 - Competitive Programming solutions
- - Codeblocks
- - Codechef
- - Hackerearth
- - Hackerrank
- - ProjectEuler  
- - SPOJ
+    - Codeblocks
+    - Codechef
+    - Hackerearth
+    - Hackerrank
+    - ProjectEuler  
+    - SPOJ
 
 >Each type has several hundreds of problems with solutions in several languages spanning `C`, `C++`, `Python`, `Java`, `Go` and others.
 
