@@ -12,14 +12,14 @@ Use these following repos to study or review your knowledge and don't forget to 
 ## Contents:
 
 - algorithms
- - Backtracking
- - Divide and Conquer
- - Greedy Algorithm
- - Graph Algorithm
- - Searching
- - Sorting
- - Mathematical Algorithms
- - Randomized Algorithms
+    - Backtracking
+    - Divide and Conquer
+    - Greedy Algorithm
+    - Graph Algorithm
+    - Searching
+    - Sorting
+    - Mathematical Algorithms
+    - Randomized Algorithms
 
 - linear-data-structures
 
@@ -44,5 +44,5 @@ Use these following repos to study or review your knowledge and don't forget to 
  After that, find the folder that fits the category of your code and submit a PR.
 
  ### Please have a look at these :
-  - Please read [CONTRIBUTING.md]() for details on our code of conduct, and the process for submitting pull requests to us.
-  - [STRUCTURE.md]() for structure of directories
+  - Please read [CONTRIBUTING.md](https://github.com/ACEIT-JAIPUR-cyberpunk/data-structures/blob/master/CONTRIBUTION.md) for details on our code of conduct, and the process for submitting pull requests to us.
+  - [STRUCTURE.md](https://github.com/ACEIT-JAIPUR-cyberpunk/data-structures/blob/master/STRUCTURE.md) for structure of directories
