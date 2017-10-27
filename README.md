@@ -11,7 +11,7 @@ Use these following repos to study or review your knowledge and don't forget to 
 
 ## Contents:
 
-- algorithms
+- Algorithms
     - Backtracking
     - Divide and Conquer
     - Greedy Algorithm
@@ -22,9 +22,9 @@ Use these following repos to study or review your knowledge and don't forget to 
     - Randomized Algorithms
     - Recursive Algorithms
 
-- linear-data-structures
+- Linear Data Structures
 
-- non-linear-data-structures
+- Non Linear Data Structures
 
 - Competitive Programming solutions
     - Codeblocks
@@ -33,6 +33,8 @@ Use these following repos to study or review your knowledge and don't forget to 
     - Hackerrank
     - ProjectEuler  
     - SPOJ
+
+- Shell Scripting
 
 >Each type has several hundreds of problems with solutions in several languages spanning `C`, `C++`, `Python`, `Java`, `Go` and others.
 
